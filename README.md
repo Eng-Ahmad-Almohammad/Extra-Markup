@@ -13,3 +13,6 @@
 
 ## ID Attribute
 ### Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character). It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
+![Id](https://user-images.githubusercontent.com/70091044/92271293-365f5300-eef0-11ea-821a-17d8f0969366.PNG)
+## Class Attribute
+### Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. For example, you might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, to do this you can use the class attribute. 
