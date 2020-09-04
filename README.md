@@ -16,3 +16,7 @@
 ![Id](https://user-images.githubusercontent.com/70091044/92271293-365f5300-eef0-11ea-821a-17d8f0969366.PNG)
 ## Class Attribute
 ### Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. For example, you might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, to do this you can use the class attribute. 
+![class](https://user-images.githubusercontent.com/70091044/92271814-1e3c0380-eef1-11ea-9e5a-ea363bfce2c6.PNG)
+## Block Elements
+### Some elements will always appear to start on a new line in the browser window. These are known as *block level* elements. 
+### Examples of block elements are < h1 >, < p >, < ul >, and < li >.
