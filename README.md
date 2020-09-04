@@ -24,4 +24,9 @@
 ## Inline Elements
 ### Some elements will always appear to continue on the same line as their neighbouring elements. These are known as *inline* elements.
 ### Examples of inline elements are < a >, < b >, < em >, and < img >.
+![inline](https://user-images.githubusercontent.com/70091044/92274408-db305f00-eef5-11ea-848c-04daffb61936.PNG)
+## Grouping Text & Elements In a Block
+## < div > 
+### The < div > element allows you to group a set of elements together in one block-level box. For example, you might create a < div > element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a  < div > element to contain comments from visitors.
+
 
