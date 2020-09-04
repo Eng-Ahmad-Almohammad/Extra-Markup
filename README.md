@@ -28,5 +28,12 @@
 ## Grouping Text & Elements In a Block
 ## < div > 
 ### The < div > element allows you to group a set of elements together in one block-level box. For example, you might create a < div > element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a  < div > element to contain comments from visitors.
+![div](https://user-images.githubusercontent.com/70091044/92274886-b983a780-eef6-11ea-83ec-a909dd49eb05.PNG)
+## Grouping Text & Elements Inline
+## < span > 
+### The < span > element acts like an inline equivalent of the < div > element. It is used to either:
+1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
+2. Contain a number of inline elements
+### The most common reason why people use < span > elements is so that they can control the appearance of the content of these elements using CSS.
 
 
