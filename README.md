@@ -74,3 +74,6 @@
 ### This prevents the browser from caching the page. (That is, storing it locally to save time downloading it on subsequent visits.)
 ## expires
 ### Because browsers often cache the content of a page, the expires option can be used to indicate when the page should expire (and no longer be cached). Note that the date must be specified in the format shown.
+![meta](https://user-images.githubusercontent.com/70091044/92277966-de7b1900-eefc-11ea-962d-110902e0075a.PNG)
+## Escape Characters
+### There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
